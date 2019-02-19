@@ -1,2 +1,2 @@
-# Website_Bewerbung
+# Bewerbungs-Mittwald
 Bewerbung für Mittwald
