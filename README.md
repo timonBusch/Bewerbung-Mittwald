@@ -1,2 +1,2 @@
-# Bewerbungs-Mittwald
+# Bewerbung-Mittwald
 Bewerbung für Mittwald
